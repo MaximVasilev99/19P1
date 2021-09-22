@@ -3,6 +3,12 @@
 #include <math.h>
 #include <iostream>
 using namespace std;
+class Novie
+   {
+     
+cout << "Новый текст";
+   }
+
 int main()
 {
     setlocale(LC_ALL, "Russian");
